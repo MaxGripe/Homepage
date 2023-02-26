@@ -1,4 +1,5 @@
-# Vanilla JavaScript App
+# Homepage
+[![Azure Static Web Apps CI/CD](https://github.com/MaxGripe/Homepage/actions/workflows/azure-static-web-apps-nice-coast-0968bef03.yml/badge.svg)](https://github.com/MaxGripe/Homepage/actions/workflows/azure-static-web-apps-nice-coast-0968bef03.yml)
 
 [Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/overview) allows you to easily build JavaScript apps in minutes. Use this repo with the [quickstart](https://docs.microsoft.com/azure/static-web-apps/getting-started?tabs=vanilla-javascript) to build and customize a new static site.
 
